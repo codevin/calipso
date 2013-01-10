@@ -12,6 +12,7 @@
         "name":"Calipso",
         "url":"http://localhost:3000",
         "modulePath":"./modules",
+        "modulePathsList":[],
         "themePath":"./themes",
         "cluster":{
             "workers":0,
